@@ -32,8 +32,8 @@ Requisitos no PATH: **PHP 8.2+**, **Composer**, **Node 20.19+ ou 22.12+**. MySQL
 ### 1. Clone
 
 ```cmd
-git clone https://github.com/LucasLeal0619/Sistema_SGVT.git
-cd Sistema_SGVT
+git clone https://github.com/LucasLeal0619/Sistema_SVT.git
+cd Sistema_SVT
 ```
 
 ### 2. Crie o banco
